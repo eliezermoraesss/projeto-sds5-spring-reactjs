@@ -1,6 +1,6 @@
 # [Projeto Dashboard de Vendas com Spring e ReactJS](https://lnkd.in/eA9Fb3-g)
 
-Olá Devs,
+Olá à todos,
 
 Gostaria de compartilhar minha primeira aplicação web (Dashboard de Vendas) desenvolvida com as tecnologias Spring e ReactJS na Semana Spring React ministrada pelo expert Nélio Alves.<br>
 Criação do frontend, com reactJS, reactRouterDOM, reactHooks, axios, bootstrap, apexChart e dateFns. <br>

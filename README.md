@@ -1,4 +1,4 @@
-# aplicaçâo Web Daschboard de Venas com Spring e ReactJS
+# Projeto Dashboard de Vendas com Spring e ReactJS
 
 Minha primeira aplicação web (Dashboard de Vendas) desenvolvida com as tecnologias Spring e ReactJS. <br>
 Criação do #frontend, com #reactJS, #reactRouterDOM #reactHooks #axios #bootstrap, #apexChart e #dateFns. <br>

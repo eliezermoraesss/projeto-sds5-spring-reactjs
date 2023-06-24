@@ -1,4 +1,6 @@
 # [Projeto Dashboard de Vendas com Spring e ReactJS](https://lnkd.in/eA9Fb3-g)
+## 👨‍💻 Projeto publicado no Netlify: <br>
+## https://lnkd.in/eA9Fb3-g <br>
 
 Olá à todos,
 
@@ -7,9 +9,7 @@ Criação do frontend, com reactJS, reactRouterDOM, reactHooks, axios, bootstrap
 Para o backend, com o springboot, springData, jpa, ORM, banco de dados h2 e postgreSQL. <br>
 Integração entre frontend e backend, testes com o postman, deploy na plataforma cloud Heroku e hospedagem no Netlify.<br>
 Aplicado o conceito de integração contínua e entrega contínua, CI/CD, a cada novo passo no projeto, realizava o commit no #GitHub e a aplicação atualizava automaticamente.<br>
-<br>
-Projeto publicado no Netlify: <br>
-https://lnkd.in/eA9Fb3-g <br>
+
 <br>
 Repositório no GitHub: <br>
 https://lnkd.in/eNyd-tDS <br>
